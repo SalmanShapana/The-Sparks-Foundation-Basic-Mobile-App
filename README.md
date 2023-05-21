@@ -25,27 +25,25 @@ To run the app locally, follow these steps:
 
    ```bash
    git clone https://github.com/SalmanShapana/The-Sparks-Foundation-Basic-Mobile-App.git
-Open the project in Xcode:
+2. Open the project in Xcode:
 
-Navigate to the cloned project directory.
-Locate the .xcodeproj file and open it with Xcode.
-Build and run the app:
+- Navigate to the cloned project directory.
+- Locate the .xcodeproj file and open it with Xcode.
+3. Build and run the app:
 
-Select the target device or simulator from the Xcode toolbar.
-Click on the "Run" button or press Cmd + R to build and run the app.
-Explore the app:
+- Select the target device or simulator from the Xcode toolbar.
+- Click on the "Run" button or press Cmd + R to build and run the app.
+4. Explore the app:
 
-Use the app to transfer money between user accounts.
-View the transaction history to see the recorded transactions.
+- Use the app to transfer money between user accounts.
+- View the transaction history to see the recorded transactions.
 Note: The app uses dummy data for testing purposes, and no actual transactions will be performed. You can modify the data or integrate the app with a backend server for real-time functionality.
 
-Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the repository.
 
-License
+##License
 This project is licensed under the MIT License.
 
-vbnet
-Copy code
 
-Please make sure to update any relevant sections or placeholders in the text before adding it to your repository's readme.
+
