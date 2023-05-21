@@ -39,10 +39,10 @@ To run the app locally, follow these steps:
 - View the transaction history to see the recorded transactions.
 Note: The app uses dummy data for testing purposes, and no actual transactions will be performed. You can modify the data or integrate the app with a backend server for real-time functionality.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the repository.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
